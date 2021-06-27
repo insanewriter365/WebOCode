@@ -2,6 +2,8 @@
 It was a front-end development competition organised by NSUT Delhi
 The website is created on theme "Healthcare"
 
+Tech Stack used - HTML5, CSS3, Bootstrap, JS
+
 Run it locally-
 1. Just donwload the code
 2. Run the file named index.html by doble click 
