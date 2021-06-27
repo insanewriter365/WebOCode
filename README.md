@@ -46,5 +46,5 @@ The website is like of any other hospital's website, all required function are p
 1. Learnt more about bootstrap,google fonts,icons,media queries, viewport etc
 2. Practically created a real like website by a user's point of view
 
+Deployment: https://sakshied.github.io/WebOCode/index.html#
 
-    
