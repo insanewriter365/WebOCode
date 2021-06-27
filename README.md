@@ -6,7 +6,7 @@ Tech Stack used - HTML5, CSS3, Bootstrap, JS
 
 Run it locally-
 1. Just donwload the code
-2. Run the file named index.html by doble click 
+2. Run the file named index.html by double click 
 
 Images🌆 used in website are :
 1. https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/istock-vaccine.jpg?itok=r4-shkm5
