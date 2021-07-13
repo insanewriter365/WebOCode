@@ -9,6 +9,7 @@ Run it locally-
 2. Run the file named index.html by double click 
 
 Images🌆 used in website are :
+
 1. https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/istock-vaccine.jpg?itok=r4-shkm5
 2. https://thumbs.dreamstime.com/b/old-man-visit-doctor-patient-care-sick-men-67273865.jpg
 3. https://www.dr-hempel-network.com/wp-content/uploads/2018/08/Surgeons-performing-operation-in-operation-room-629763042_727x484.jpeg
@@ -21,11 +22,15 @@ Images🌆 used in website are :
 10. https://d33ljpvc0tflz5.cloudfront.net/dims3/MMH/38fe5a2/2147483647/strip/true/crop/6720x4375+0+0/resize/768x500!/quality/75/?url=https%3A%2F%2Fd26ua9paks4zq.cloudfront.net%2F7e%2F70%2Faced0aa9483ebc1ac0c7f1fbf8f8%2Fgettyimages-1255590983.jpg
 
 CSS Frameworks used
+
 ✅ Font awesome icons - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+
 ✅Bootstrap - https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+
 ✅Google Fonts - https://fonts.googleapis.com/css2?family=Bangers&family=Questrial&display=swap
 
 The theme of my website is "HEALTHCARE"👩‍🔬
+
 The website is like of any other hospital's website, all required function are provided like
 1. It has valid options like address of hospitals centre
 2. Proper contact detail along with a form in contact section to ask queries
