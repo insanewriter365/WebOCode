@@ -1,5 +1,7 @@
 # WebOCode
+
 It was a front-end development competition organised by NSUT Delhi
+
 The website is created on theme "Healthcare"
 
 Tech Stack used - HTML5, CSS3, Bootstrap, JS
